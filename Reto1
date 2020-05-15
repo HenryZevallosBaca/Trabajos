@@ -14,7 +14,8 @@
       <style>
           .col{
               border:1px solid white;
-              background: #23BC8D;
+              background: #01B795
+;
           }
       </style>
 
@@ -23,13 +24,15 @@
 
       <div class="container">
         <div class="row">
-          <div class="col"><p style="color:#23BC8D";>a</p></div>
+          <div class="col"><p style="color:#01B795
+            ";>a</p></div>
           <div class="col"> </div>
           <div class="col"> </div>
 
         </div>
         <div class="row">
-          <div class="col"> <p style="color:#23BC8D";>a</p></div>
+          <div class="col"> <p style="color:#01B795
+            ";>a</p></div>
           <div class="col"> </div>
           <div class="col"> </div>
           <div class="col"> </div>
@@ -41,14 +44,16 @@
           <div class="col"> </div>
         </div>
         <div class="row">
-            <div class="col"><p style="color:#23BC8D";>a</p></div>
+            <div class="col"><p style="color:#01B795
+                ";>a</p></div>
             <div class="col"> </div>
             
 
             
           </div>
         <div class="row">
-            <div class="col"><p style="color:#23BC8D";>a</p></div>
+            <div class="col"><p style="color:#01B795
+                ";>a</p></div>
             <div class="col"> </div>
             <div class="col"> </div>
             <div class="col"> </div>
@@ -57,7 +62,8 @@
             
           </div>
           <div class="row">
-            <div class="col"> <p style="color:#23BC8D";>a</p></div>
+            <div class="col"> <p style="color:#01B795
+                ";>a</p></div>
           </div>
           
       </div>
